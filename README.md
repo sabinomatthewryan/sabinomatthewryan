@@ -2,7 +2,7 @@
 
 **`3rd Year IT Student, Aspiring Web Developer`**
 
-I am a 3rd year student at De La Salle University-Dasmariñas taking Bachelor of Science in Information Technology, Specializing in Web development. All future projects here are created utilizing what I have learned throughout my college years. This will also serve as a testament of my hardwork and basis for improvement on future projects.
+I am a 4th year student at De La Salle University-Dasmariñas taking Bachelor of Science in Information Technology, Specializing in Web development. All future projects here are created utilizing what I have learned throughout my college years. This will also serve as a testament of my hardwork and basis for improvement on future projects.
 
 <h3 align="left">➜ Connect with me</h3>
 <p align="left">
